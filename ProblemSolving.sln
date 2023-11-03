@@ -3,13 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33424.131
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Max-Min-Value", "Max-Min-Value\Max-Min-Value.csproj", "{BCA899C9-5798-450A-B8EB-478451E05BC8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Max-Min-Value", "Max-Min-Value\Max-Min-Value.csproj", "{BCA899C9-5798-450A-B8EB-478451E05BC8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumOfArrayColumns", "SumOfArrayColumns\SumOfArrayColumns.csproj", "{294CD4D3-63B7-46B8-BD12-ACC73451E108}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SumOfArrayColumns", "SumOfArrayColumns\SumOfArrayColumns.csproj", "{294CD4D3-63B7-46B8-BD12-ACC73451E108}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AgeCalculator", "AgeCalculator\AgeCalculator.csproj", "{912EF44B-225E-49FE-AD0F-5B8F56C9B5A5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AgeCalculator", "AgeCalculator\AgeCalculator.csproj", "{912EF44B-225E-49FE-AD0F-5B8F56C9B5A5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Simple Calculator", "Simple Calculator\Simple Calculator.csproj", "{5BA1E9A9-98ED-4ECE-9A45-A43A8CF317AE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Simple Calculator", "Simple Calculator\Simple Calculator.csproj", "{5BA1E9A9-98ED-4ECE-9A45-A43A8CF317AE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiplyArrays", "MultiplyArrays\MultiplyArrays.csproj", "{FF9FC232-72DD-45F7-8345-ECE9CEC7CD37}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{5BA1E9A9-98ED-4ECE-9A45-A43A8CF317AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5BA1E9A9-98ED-4ECE-9A45-A43A8CF317AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5BA1E9A9-98ED-4ECE-9A45-A43A8CF317AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF9FC232-72DD-45F7-8345-ECE9CEC7CD37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF9FC232-72DD-45F7-8345-ECE9CEC7CD37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF9FC232-72DD-45F7-8345-ECE9CEC7CD37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF9FC232-72DD-45F7-8345-ECE9CEC7CD37}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

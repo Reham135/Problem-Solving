@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiplyArrays", "MultiplyA
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Longest Distance between 2 equal cells", "Longest Distance between 2 equal cells\Longest Distance between 2 equal cells.csproj", "{29D468D8-2F6D-40BF-99ED-215BE0B34E9A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reverse The Order Of The Words", "Reverse The Order Of The Words\Reverse The Order Of The Words.csproj", "{39D6CD4A-849F-4A80-BC36-C441A2676356}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{29D468D8-2F6D-40BF-99ED-215BE0B34E9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{29D468D8-2F6D-40BF-99ED-215BE0B34E9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{29D468D8-2F6D-40BF-99ED-215BE0B34E9A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39D6CD4A-849F-4A80-BC36-C441A2676356}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39D6CD4A-849F-4A80-BC36-C441A2676356}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39D6CD4A-849F-4A80-BC36-C441A2676356}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39D6CD4A-849F-4A80-BC36-C441A2676356}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
